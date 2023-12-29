@@ -47,18 +47,18 @@ class Userbot(Client):
         )
 
     async def start(self):
-        LOGGER(__name__).info(f"Starting Assistants...")
+        LOGGER(__name__).info(f"𝗕ss 𝗛ᴏ 𝗚ʏᴀ 𝗦ᴛᴀʀᴛ 𝗔ssɪsᴛᴀɴᴛ...")
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("HEROKUFREECC")
+                await self.one.join_chat("DECENT_CHATTING")
               
-                await self.one.join_chat("ALLTYPECC")
+                await self.one.join_chat("LOG_XD_BOT")
             except:
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "Assistant Start.........")
+                await self.one.send_message(config.LOGGER_ID, "𝗕ss 𝗛ᴏ 𝗚ʏᴀ 𝗦ᴛᴀʀᴛ 𝗔ssɪsᴛᴀɴᴛ...")
                                          
             except:
                 LOGGER(__name__).error(
