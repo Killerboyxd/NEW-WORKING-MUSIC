@@ -24,7 +24,7 @@
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=ROCKY-D3V/NEW-WORKING-MUSIC)](https://github.com/ROCKY-D3V/NEW-WORKING-MUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Killerboyxd/NEW-WORKING-MUSIC)](https://github.com/Killerboyxd/NEW-WORKING-MUSIC/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/M3_4_U"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
